@@ -10,6 +10,12 @@
 
 ​       
 
+## :bookmark_tabs: Notion
+
+https://youmean0427.notion.site/01_Operating-System-OS-5be3f6c26c76425b853e47eaa5c6d805
+
+
+
 ## :pencil: Log 
 
 ​     
