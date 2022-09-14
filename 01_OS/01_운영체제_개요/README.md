@@ -12,13 +12,15 @@
 
 ## :bookmark_tabs: Notion
 
-https://youmean0427.notion.site/01_Operating-System-OS-5be3f6c26c76425b853e47eaa5c6d805
+​    
 
+> [Notion](https://youmean0427.notion.site/01_Operating-System-OS-5be3f6c26c76425b853e47eaa5c6d805)
 
+​        
 
 ## :pencil: Log 
 
-​     
+​         
 
 - 22.08.01 :: 우당탕탕 CS Study (Part : 컴퓨터 시스템의 구조) 
 
