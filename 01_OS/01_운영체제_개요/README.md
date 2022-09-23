@@ -1,28 +1,32 @@
-# 01_운영체제 개요 :book:
+# 01_Operating System (OS) :book:
+
+>  **01_운영체제 개요**
+
+
 
 ## :one: Class 
 
-​     
-
-> [운영체제 개요 1](http://www.kocw.net/home/cview.do?lid=248a533dda95d005)
-
-> [운영체제 개요 2](http://www.kocw.net/home/cview.do?lid=248a533dda95d005)
-
 ​       
+
+:link: [운영체제 개요 1](http://www.kocw.net/home/cview.do?lid=248a533dda95d005)
+
+:link: [운영체제 개요 2](http://www.kocw.net/home/cview.do?lid=248a533dda95d005)
+
+​          
 
 ## :two: Notion
 
-​    
-
-> [Notion](https://youmean0427.notion.site/01_Operating-System-OS-5be3f6c26c76425b853e47eaa5c6d805)
-
 ​        
+
+:link: [Notion](https://youmean0427.notion.site/01_Operating-System-OS-5be3f6c26c76425b853e47eaa5c6d805)
+
+​          
 
 ## :three: Log 
 
 ​          
 
-- 22.08.01 :: 우당탕탕 CS Study <Part : 컴퓨터 시스템의 구조> 
+> 22.08.01 :: 우당탕탕 CS Study `<Part : 컴퓨터 시스템의 구조>` 
 
-- **22.09.13 :: <01_운영체제 개요> 전체 복습 및 정리**
+> **22.09.13 :: `<01_운영체제 개요>` 전체 복습 및 정리**
 

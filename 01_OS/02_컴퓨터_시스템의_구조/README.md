@@ -1,21 +1,36 @@
-# 02_컴퓨터 시스템 구조 🗃️
+# 02_System Structure & Program Execution
 
-## :school: Class 
+>  **02_컴퓨터 시스템 구조**
 
-​     
 
-> [컴퓨터 시스템 구조_1](http://www.kocw.net/home/cview.do?lid=3e7271e2c4f94df4)
 
-> [컴퓨터 시스템 구조_2](http://www.kocw.net/home/cview.do?lid=ff1a56bd0d759e31)
+## :one: Class 
 
-> [컴퓨터 시스템 구조 3](http://www.kocw.net/home/cview.do?lid=ff1a56bd0d759e31)
+​       
 
-> [컴퓨터 시스템 구조 4](http://www.kocw.net/home/cview.do?lid=6de74734c21ccab4)
+:link: 컴퓨터 시스템 구조_1
 
-​     
+:link: 컴퓨터 시스템 구조_2
 
-## :pencil: Log 
+:link: 컴퓨터 시스템 구조_3
 
-​     
+:link: 컴퓨터 시스템 구조_4
 
-- **22.08.03 :: 우당탕탕 CS Study (Part : 레지스터와 프로그램 카운터)** 
+​    
+
+## :two: Notion
+
+​        
+
+:link: Notion
+
+​          
+
+## :three: Log 
+
+​          
+
+> **22.08.03 :: 우당탕탕 CS Study `<Part : 레지스터와 프로그램 카운터>`** 
+
+
+
