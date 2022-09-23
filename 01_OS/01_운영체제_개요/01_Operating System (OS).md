@@ -20,7 +20,7 @@
 
      
 
-<img src="01_Operating%20System%20(OS)%205be3f6c26c76425b853e47eaa5c6d805/%25EA%25B7%25B8%25EB%25A6%25BC1.png" alt="그림1.png" style="zoom: 25%;" />
+<img src="01_Operating%20System%20(OS)%205be3f6c26c76425b853e47eaa5c6d805/%25EA%25B7%25B8%25EB%25A6%25BC1.png" alt="그림1.png" style="zoom: 10%;" />
 
 ---
 
@@ -41,7 +41,7 @@
         
     - 사용자 및 운영체제 자신의 보호
 
-           
+      ​     
 
 
 ---
@@ -255,8 +255,8 @@ A. 미래를 모르는 상황에서 다시 사용될 가능성이 높은 것은 
     
     - Seek time = Seek distance
       
-           
-        
+      ​     
+      
         ![Untitled](01_Operating%20System%20(OS)%205be3f6c26c76425b853e47eaa5c6d805/Untitled.png)
         
 
@@ -303,7 +303,7 @@ A. 미래를 모르는 상황에서 다시 사용될 가능성이 높은 것은 
     </aside>
 
     - ***C-SCAN***
-        
+      
         - 항상 한쪽 방향으로만 요청된 서비스를 지원해주는 기법
         
           ​    
