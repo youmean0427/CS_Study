@@ -6,7 +6,7 @@
 
 ---
 
-   
+​                       
 
 > **운영체제 (Operating System, OS)**
 
@@ -20,11 +20,11 @@
 
      
 
-<img src="01_Operating%20System%20(OS)%205be3f6c26c76425b853e47eaa5c6d805/%25EA%25B7%25B8%25EB%25A6%25BC1.png" alt="그림1.png" style="zoom: 10%;" />
+<img src="01_Operating%20System%20(OS)%205be3f6c26c76425b853e47eaa5c6d805/%25EA%25B7%25B8%25EB%25A6%25BC1.png" alt="그림1.png" style="zoom: 100%;" />
 
 ---
 
-   
+​                       
 
 - 컴퓨터 시스템을 편리하게 사용할 수 있는 환경을 제공
 
@@ -32,7 +32,7 @@
 
     - 하드웨어를 직접 다루는 복잡한 부분을 운영체제가 대행
 
-         
+      ​                       
 
 - **컴퓨터 시스템의 자원을 효율적으로 관리**
     - CPU, 메모리, I/O 장치 등을 효율적으로 관리
@@ -41,20 +41,20 @@
         
     - 사용자 및 운영체제 자신의 보호
 
-      ​     
+      ​                         
 
 
 ---
 
-   
+​                       
 
 > **컴퓨터 시스템의 구조**
 
-   
+​                       
 
 ![그림2.png](01_Operating%20System%20(OS)%205be3f6c26c76425b853e47eaa5c6d805/%25EA%25B7%25B8%25EB%25A6%25BC2.png)
 
-   
+​                       
 
 - 매순간 CPU가 메모리를 읽는다.
     - **Input (인풋)**  : 디바이스를 통해서 데이터가 컴퓨터 내부로 들어가는 것 (키보드, 마우스)
@@ -62,21 +62,21 @@
 
 ⚠️ **하드디스크는 보조기억장치, 컴퓨터 외부 디바이스로 본다. (Input / Output 모두 가능)**
 
-   
+​                       
 
 ![그림3.png](01_Operating%20System%20(OS)%205be3f6c26c76425b853e47eaa5c6d805/%25EA%25B7%25B8%25EB%25A6%25BC3.png)
 
-   
+​                       
 
 - 부팅하면 운영체제가 메모리에 올라가면서 시작
 
 - 운영체제는 컴퓨터가 꺼질 때 까지 항상 실행되는 프로그램
 
-     
+  ​                       
 
 ---
 
-   
+​                                           
 
 - **커널**
 
@@ -86,18 +86,18 @@
 
     - 응용프로그램의 실행
 
-         
+      ​                       
 
 
 ---
 
-   
+​                        
 
 - CPU의 작업 공간은 메모리, 매 클럭마다 메모리 어딘가 있는 기계어를 읽어서 연산
 
 - CPU가 외부장치에서 직접적으로 데이터 이동을 하지는 않는다. **→ 외부장치는 컨트롤러를 통해 요청**
 
-    
+  ​                      
 
 - **CPU 스케줄링** : 어떤 프로그램에게 CPU 사용권을 줄것인가?
 
@@ -107,31 +107,31 @@
 
 - **인터럽트, 캐싱** : 빠른 CPU와 느린 I/O 장치간의 속도차를 어떻게 극복할 것인가?
 
-  ​     
+  ​                         
 
 - **프로세서** : 중앙 처리 장치를 의미하며 CPU라고 불리는 부품이 프로세서인 하드웨어를 의미한다.
 
 - **프로세스** : 메모리에 적재되어 실행 중이거나 대기 중인 프로그램을 프로세스 라고 한다.
 
-     
+  ​    
 
 ![그림4.png](01_Operating%20System%20(OS)%205be3f6c26c76425b853e47eaa5c6d805/%25EA%25B7%25B8%25EB%25A6%25BC4.png)
 
-   
+​      
 
 - **Interactive Application** : 입출력(I/O) 디바이스를 통해 사람과 상호 작용하는 프로그램
 
 - **Scientific Application** : CPU만 오래 사용하는 프로그램
 
-     
+  ​                    
 
 ---
 
-   
+​                     
 
 > **CPU 스케줄링** 
 
-   
+​                     
 
 1. ***FCFS (First-Come First-Served)*** 
     - 선착순으로 처리, 효율적이지는 않다.
@@ -142,17 +142,16 @@
 
 ---
 
-   
+​                         
 
 2. ***SJF (Shortedst-Job-First)***
-
-   - 금번 CPU 사용시간이 가장 짧은 프로세스를 제일 먼저 스케줄링
-
-   - SJF는 Minimum Average Waiting Time을 보장
+- 금번 CPU 사용시간이 가장 짧은 프로세스를 제일 먼저 스케줄링
+   
+- SJF는 Minimum Average Waiting Time을 보장
 
 ![그림8.png](01_Operating%20System%20(OS)%205be3f6c26c76425b853e47eaa5c6d805/%25EA%25B7%25B8%25EB%25A6%25BC8.png)
 
-   
+​                       
 
 - **Starvation (기아 현상) 발생 가능**
 
@@ -160,11 +159,11 @@
 
     - CPU 큐가 계속 추가될 수 있음
 
-         
+      ​                          
 
 ---
 
-   
+​                       
 
 3. **Round Robin (RR)**
 
@@ -177,22 +176,22 @@
        
        - 대기시간이 프로세스의 CPU 사용시간에 비례
        
-            
+         ​    
 
 
 ![그림10.png](01_Operating%20System%20(OS)%205be3f6c26c76425b853e47eaa5c6d805/%25EA%25B7%25B8%25EB%25A6%25BC10.png)
 
 ---
 
-   
+​                          
 
 > **메모리 관리**
 
-   
+​                       
 
 ![그림11.png](01_Operating%20System%20(OS)%205be3f6c26c76425b853e47eaa5c6d805/%25EA%25B7%25B8%25EB%25A6%25BC11.png)
 
-   
+​                       
 
 - 가상메모리에서 당장 필요한 부분이 메모리로 옮겨간다.
 
@@ -204,39 +203,41 @@
 
 - 디스크 (스왑영역) :  비휘발성 (의미가 없음)
 
-    
+  ​                      
 
 ![그림12.png](01_Operating%20System%20(OS)%205be3f6c26c76425b853e47eaa5c6d805/%25EA%25B7%25B8%25EB%25A6%25BC12.png)
 
-   
+​                       
 
 - CPU가 디스크에서 요청하고 메모리에 저장
 
 - 중복 요청은 메모리에서 읽어 오기만 하면됨
 
-     
+  ​                       
 
 **Q. 하지만, 메모리가 가득 찼다면?**
 
 A. 미래를 모르는 상황에서 다시 사용될 가능성이 높은 것은 유지하는 것
 
-   
+​                       
 
 - **LRU** (가장 오래전에 참조 페이지를 삭제) : 1번
 
 - **LFU** (참조 횟수가 가장 적은 페이지 삭제) : 4번
 
-     
+  ​                       
 
 ---
 
-   
+​                       
 
 > **디스크 스케줄링** 
 
-​	   
+​                    
 
 - 사용할 데이터가 디스크상의 여러 곳에 저장되어 있을 경우 데이터를 액세스 하기 위해서 디스크 헤더가 움직이는 경로를 결정하는 기법
+
+    ​                    
 
 - **디스크 접근 시간 Aceess time의 구성**
   
@@ -258,11 +259,11 @@ A. 미래를 모르는 상황에서 다시 사용될 가능성이 높은 것은 
       ​     
       
         ![Untitled](01_Operating%20System%20(OS)%205be3f6c26c76425b853e47eaa5c6d805/Untitled.png)
-        
+      
 
 ---
 
-   
+​                       
 
 1. ***FCFS (First-Come First-Served)***
 
@@ -276,7 +277,10 @@ A. 미래를 모르는 상황에서 다시 사용될 가능성이 높은 것은 
     <img src="https://www.notion.so/icons/send-to_gray.svg" alt="https://www.notion.so/icons/send-to_gray.svg" width="40px" /> 53 → 98 → 183 → 37 → 122 → 14 → 124 → 65 → 67
     </aside>
 
+    ​                    
+
 2. ***SSTF (Shortest Seek Time First)***
+
     - 제일 가까운 것을 찾아감
     - **Starvation 문제**
 
@@ -287,7 +291,7 @@ A. 미래를 모르는 상황에서 다시 사용될 가능성이 높은 것은 
     <aside>
     <img src="https://www.notion.so/icons/send-to_gray.svg" alt="https://www.notion.so/icons/send-to_gray.svg" width="40px" /> 53 → 65 → 67 → 37 → 14 → 98 → 122 → 124 → 183
 
-    </aside>
+    ​                    
 
 3. ***SCAN***
     - 헤드가 디스크의 한쪽 끝에서 다른쪽 끝까지 이동하며 가는 길목에 있는 모든 요청을 처리
@@ -300,7 +304,7 @@ A. 미래를 모르는 상황에서 다시 사용될 가능성이 높은 것은 
     <aside>
     <img src="https://www.notion.so/icons/send-to_gray.svg" alt="https://www.notion.so/icons/send-to_gray.svg" width="40px" /> 53 → 37 → 14 → **0** → 65 → 67 → 98 → 122 → 124 → 183
 
-    </aside>
+    ​                    
 
     - ***C-SCAN***
       
@@ -311,7 +315,7 @@ A. 미래를 모르는 상황에서 다시 사용될 가능성이 높은 것은 
 
 ---
 
-   
+​                       
 
 > **저장장치 계층 구조와 캐싱(caching)**
 
@@ -319,16 +323,19 @@ A. 미래를 모르는 상황에서 다시 사용될 가능성이 높은 것은 
 
 - **Caching** : copying information ito faster storage system
 
-  ​    
+  ​                        
 
 ---
 
-   
+​                       
 
 > **플래시 메모리**
 
 - 반도체장치 (하드디스크 : 마그네틱)
+
 - NAND형(스토리지), NOR형(임베디드 코드 저장용)
+
+    ​                    
 
 - **특징**
     - Nonvolatile
