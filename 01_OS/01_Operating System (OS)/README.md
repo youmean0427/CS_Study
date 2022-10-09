@@ -18,9 +18,9 @@
 
 ​    
 
-:link: [01_Operating System (OS).md](./01_Operating System (OS).md)
+:link: [01_Operating System (OS).md](./01_Operating%20System%20(OS).md)
 
- 
+​         
 
 ## :three: Notion
 
@@ -34,7 +34,7 @@
 
 ​    
 
-:link:[01_Operating System (OS).pdf](./01_Operating System (OS).pdf)
+:link:[01_Operating System (OS).pdf](./01_Operating%20System%20(OS).pdf)
 
 ​     
 
