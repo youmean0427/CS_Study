@@ -20,7 +20,9 @@
 
      
 
-<img src="01_Operating%20System%20(OS)%205be3f6c26c76425b853e47eaa5c6d805/%25EA%25B7%25B8%25EB%25A6%25BC1.png" alt="그림1.png" style="zoom: 100%;" />
+![그림1.png](01_Operating%20System%20(OS)%205be3f6c26c76425b853e47eaa5c6d805/%25EA%25B7%25B8%25EB%25A6%25BC1.png)
+
+
 
 ---
 
@@ -146,7 +148,7 @@
 
 2. ***SJF (Shortedst-Job-First)***
 - 금번 CPU 사용시간이 가장 짧은 프로세스를 제일 먼저 스케줄링
-   
+  
 - SJF는 Minimum Average Waiting Time을 보장
 
 ![그림8.png](01_Operating%20System%20(OS)%205be3f6c26c76425b853e47eaa5c6d805/%25EA%25B7%25B8%25EB%25A6%25BC8.png)
