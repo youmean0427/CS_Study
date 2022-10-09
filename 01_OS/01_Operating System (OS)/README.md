@@ -14,15 +14,31 @@
 
 ​          
 
-## :two: Notion
+## :two: Markdown
+
+​    
+
+:link: [01_Operating System (OS).md](./01_Operating System (OS).md)
+
+ 
+
+## :three: Notion
 
 ​        
 
-:link: [Notion](https://youmean0427.notion.site/01_Operating-System-OS-5be3f6c26c76425b853e47eaa5c6d805)
+:link: [01_Operating System (OS)](https://youmean0427.notion.site/01_Operating-System-OS-5be3f6c26c76425b853e47eaa5c6d805)
 
-​          
+​           
 
-## :three: Log 
+## :four: PDF
+
+​    
+
+:link:[01_Operating System (OS).pdf](./01_Operating System (OS).pdf)
+
+​     
+
+## :five: Log 
 
 ​          
 
