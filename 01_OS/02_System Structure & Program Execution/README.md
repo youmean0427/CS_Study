@@ -16,7 +16,7 @@
 
 ​        
 
-:link: Notion
+:link: [02_System Structure & Program Execution](https://youmean0427.notion.site/02_System-Structure-Program-Execution-cc97711f09964f88bcb246f3e65ab79d)
 
 ​        
 
