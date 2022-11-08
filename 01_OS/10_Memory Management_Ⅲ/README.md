@@ -1,6 +1,6 @@
-# 09_Memory Management_Ⅱ 💻
+# 10_Memory Management_Ⅲ 💻
 
->  **09_메모리 관리 II**
+>  **10_메모리 관리 III**
 
 
 
@@ -16,7 +16,7 @@
 
 ​        
 
-:link: [09_Memory Management_II](https://youmean0427.notion.site/09_Memory-Management-cb9a41c726d2474eb7c672d077c5eae6)
+:link: [10_Memory Management_III](https://youmean0427.notion.site/10_Memory-Management-9e08f95df52646ae8aa076bdee6e00ce)
 
 ​           
 
